@@ -1,4 +1,4 @@
-﻿央视频道,#genre#
+CCTV-12社会与法，http：//[2409:8087:1 e03:21:：2]：6060/cms001/ch00000090990000001239/index.m3u8
 CCTV1,http://120.196.232.19:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
 
 CCTV2,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
@@ -30,26 +30,74 @@ CCTV13,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3
 CCTV14,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
 CCTV16,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 CCTV17,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
-卫视频道,#genre#
-深圳卫视,http://120.196.232.36:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8
-安徽卫视,http://120.196.232.45:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226655/1.m3u8
-安徽卫视,http://120.196.232.45:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226664/1.m3u8
-北京卫视,http://120.196.232.46:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
-福建东南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226670/1.m3u8
-贵州卫视,http://120.196.232.23:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8
-海南卫视,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226679/1.m3u8
-河北卫视,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226684/1.m3u8
-河南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
-黑龙江卫视,http://120.196.232.24:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226716/1.m3u8
-湖北卫视,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226713/1.m3u8
-湖南卫视,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
-江苏卫视,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
-江西卫视,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226726/1.m3u8
-江西卫视,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226682/1.m3u8
-辽宁卫视,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
-山东卫视,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
-东方卫视,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8
-四川卫视,http://120.196.232.18:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226659/1.m3u8
-天津卫视,http://120.196.232.41:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8
-浙江卫视,http://120.196.232.22:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8
-重庆卫视,http://120.196.232.28:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+文化精品，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226981/index.m3u8
+风云音乐，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226953/index.m3u8
+CCTV-12社会与法，http：//[2409:8087:1 e03:21:：2]：6060/cms001/ch00000090990000001239/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+abc def ghi jkl mno pqr stu
+文化精品，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226981/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+文化精品，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226981/index.m3u8
+CCTV-11戏曲，http：//[2409:8087:1 e03:21:：2]：6060/cms001/ch00000090990000001309/index.m3u8
+怀旧剧场，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226972/index.m3u8
+央视高网，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226978/index.m3u8
+风云音乐，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226953/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+文化精品，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226981/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+文化精品，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226981/index.m3u8
+CCTV-11戏曲，http：//[2409:8087:1 e03:21:：2]：6060/cms001/ch00000090990000001309/index.m3u8
+文化精品，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226981/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+文化精品，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226981/index.m3u8
+风云音乐，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226953/index.m3u8
+CCTV-12社会与法，http：//[2409:8087:1 e03:21:：2]：6060/cms001/ch00000090990000001239/index.m3u8
+文化精品，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226981/index.m3u8
+风云音乐，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226953/index.m3u8
+CCTV-12社会与法，http：//[2409:8087:1 e03:21:：2]：6060/cms001/ch00000090990000001239/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+文化精品，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226981/index.m3u8
+风云音乐，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226953/index.m3u8
+CCTV-12社会与法，http：//[2409:8087:1 e03:21:：2]：6060/cms001/ch00000090990000001239/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+abc def ghi jkl mno pqr stu
+凤凰资讯，http：//[2409:8087:2001:20:2800:0:df6e:eb27]：80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+黑龙江卫视，http：//[2409:8087:1e03:21:：2]：6060/cms001/ch00000090990000001031/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+风云音乐，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226953/index.m3u8
+CCTV-12社会与法，http：//[2409:8087:1 e03:21:：2]：6060/cms001/ch00000090990000001239/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+女性时尚，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226969/index.m3u8
+世界地理，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226947/index.m3u8
+风云剧场，http：//[2409:8087:7001:20:2:3]：80/dbiptv.sn.chinamobile.com/PLTV/888893/224/3221226950/index.m3u8
